@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Rob (@robcdd).
+- 👋 Hi, I’m Rob
 - 👀 I’m interested in rust, elixir, algo-trading, entrepreneurship, science, and fortnite 🤪
-- 🌱 I’m currently learning the fundamentals of deep learning and data science.
-- 📫 How to reach me: rob.christian@doordash.com
+- 🌱 I’m currently learning the fundamentals of deep learning and data science
 
 <!---
 robcdd/robcdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
